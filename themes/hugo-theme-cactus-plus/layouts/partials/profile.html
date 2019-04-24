@@ -1,0 +1,14 @@
+<div class="profile">
+    <section id="wrapper">
+        <header id="header">
+            <!-- <a href='{{ with .Site.Params.avatarLink }}{{ . }}{{ else }}{{ .Site.BaseURL }}about{{ end }}'> -->
+                <!-- <img id="avatar"  src="{{ .Site.BaseURL }}images/blur-bright-close-up.jpg"/>
+            </a> -->
+            <h1>{{ .Site.Title }}</h1>
+            {{ with .Site.Params.bio }}<h2>{{ . | markdownify }}</h2>{{ end }}
+            <p>{{ if .Site.Social }}
+        {{ partial "social.html" . }}
+    {{ end }} </p>
+        </header>
+    </section>
+</div>

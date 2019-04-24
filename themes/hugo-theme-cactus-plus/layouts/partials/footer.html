@@ -1,0 +1,9 @@
+<footer id="footer">
+    <p class="small">
+    {{ with .Site.Params.copyright }}
+        {{ . | markdownify }}
+    {{ else }}
+        © 2019 {{ .Site.Params.Author }}
+    {{ end }} </p>
+    
+</footer>
