@@ -20,7 +20,7 @@ enableRSS = false
 enableToc = false
 
 enableDisqus = true
-disqusShortname = "your_disqus_short_name"
+disqusShortname = "adrianstipanov-com"
 
 
 enableSummary = true
