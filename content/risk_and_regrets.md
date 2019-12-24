@@ -27,4 +27,4 @@ Back to regrets. Had I taken more chances and failed, I would have probably felt
 
 "You can't judge a decision by how it turns out, only by whether it made sense given the information available at the time", wrote Tim Geithner, referring to the decisions he had taken during the 07'-'08 financial crisis. It is too easy to go back and think about what "could've and should've been done", but you are doing yourself no good.
 
-Physics aside — time runs forward, and boy, it runs fast. So I am going to invite risk over to dinner this Christmas. I hope we can become lifetime friends.
+Physics aside — time runs forward, and boy, it runs fast. So I am going to invite _risk_ over to dinner this Christmas. I hope we can become lifetime friends.
