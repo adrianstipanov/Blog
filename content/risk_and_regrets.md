@@ -1,8 +1,11 @@
 ---
 title: "On risk and regrets"
-date: 2019-12-24T17:00:00+01:00
+date: 2019-12-24
 draft: false
+tags:
+
 ---
+![Mountain](/Free-Solo.jpg)
 
 I have a hard time letting go of the fact that yet another decade has gone by.
 
