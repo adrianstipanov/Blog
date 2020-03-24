@@ -16,17 +16,17 @@ I have seen people saying that working from home is more efficient because you s
 
 Evolutionary biologists have pointed out how gossiping was essential to our survival. It helped us bond with each other, form tribes – all that stuff. No technology is going to replace a high five, a shoulder tap or a hug. Don't even get me started on the extreme workplace guidelines we have nowadays in some places. ( Please DO NOT invade people's personal space if that makes them uncomfortable, obviously)
 
-Even before this confinement, we have succeeded to digitalize our lives in almost every department – socialization, fitness, dating and so on. I can't even go out for a run anymore without putting on my damned Garmin watch – that is after I fasten my heart rate chest strap first. 
+Even before this confinement, we have succeeded in digitizing our lives in almost every department – socialization, fitness, dating and so on. I can't even go out for a run anymore without putting on my damned Garmin watch – that is after I fasten my heart rate chest strap first. 
 
 Apparently in London, they don't let primary school teachers high-five their pupils. The negative effect of overprotection has been well documented by psychologist Jonathan Haidt in "The Coddling of the American Mind". I just hope that this outbreak is not going to make classrooms look like something out of a dystopian future.
 
-I can keep going on about how we are losing touch with our own self, people around us and our surroundings. While technology is great, you wonder whether many of the things that digitilized us were indeed a necessity or they were just built simply because the technology was available and made it possible.
+ I can keep going on about how we have already been losing touch with our own selves, people around us and our surroundings. While technology is great, you wonder whether many of the things that digitized us were indeed a necessity or they were just built simply because the technology was available and made it possible.
 
 Personally, I do not believe we are going to become a *touch-phobic* society after we succeed in fighting this virus. It is definitely not going to happen where I am writing this from. In Spain, people greet each other with a kiss on each cheek. There is kissing everywhere. Pablo Iglesias, one of the vice-presidents, is very well known for kissing everyone on the lips. Love galore. It's fun out here.  
 
-Do you remember the Free Hugs movement? This is what Juan Mann, the Aussie who started it, said about it: "I went out to a party one night and a completely random person came up to me and gave me a hug. I felt like a king! It was the greatest thing that ever happened." We should be celebrating these kind of things. Don't you agree?
+Do you remember the Free Hugs movement? This is what Juan Mann, the Aussie who started it, said about it: "I went out to a party one night and a completely random person came up to me and gave me a hug. I felt like a king! It was the greatest thing that ever happened." Exceptions aside, to me, these kinds of experiences are more essential to the human condition than most of what the information age promises us today.
 
-And if you are an entrepreneur and do believe that there is going to be a structural shift in the way we interact, work and have fun, don't just throw some ML into a thing and hope to bring about change. Be mindful. Speaking for myself, of course, but we do not need another Snapchat or TikTok. 
+And if you are an entrepreneur and do believe that there is going to be a structural change in the way we interact, work and have fun, don't just throw some ML algorithm into a thing and hope to profit off of this. Be mindful. We do not need another Snapchat or TikTok.
 
 >***This thing is addressing problems that don't exist, it's solutionism at its worst*** - Bertram Gilfoyle referring to a "smart" fridge,  Silicon Valley
 
