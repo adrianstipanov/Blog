@@ -6,7 +6,7 @@ draft: false
 
 ![image alt text](/hugs.png)
 
-On Sunday Spain has extended the duration of the lockdown for two more weeks – that will be four in total. Madrid remains the most affected region. My apartment is facing a wall – that's not helping, but I comply – no questions asked. 
+On Sunday Spain extended the duration of the lockdown for two more weeks – that will be four in total. Madrid remains the most affected region. My apartment is facing a wall – that's not helping, but I comply – no questions asked. 
 
 During this time you might have wondered whether this outbreak is going to change the way we work, study or socialize. I did.
 
@@ -22,7 +22,7 @@ Apparently in London, they don't let primary school teachers high-five their pup
 
  I can keep going on about how we have already been losing touch with our own selves, people around us and our surroundings. While technology is great, you wonder whether many of the things that digitized us were indeed a necessity or they were just built simply because the technology was available and made it possible.
 
-Personally, I do not believe we are going to become a *touch-phobic* society after we succeed in fighting this virus. It is definitely not going to happen where I am writing this from. In Spain, people greet each other with a kiss on each cheek. There is kissing everywhere. Pablo Iglesias, one of the vice-presidents, is very well known for kissing everyone on the lips. Love galore. It's fun out here.  
+Personally, I do not believe we are going to become a *touch-phobic* society after this virus is stopped. It is definitely not going to happen where I am writing this from. In Spain, people greet each other with a kiss on each cheek. There is kissing everywhere. Pablo Iglesias, one of the vice-presidents, is very well known for kissing everyone on the lips. Love galore. It's fun out here.  
 
 Do you remember the Free Hugs movement? This is what Juan Mann, the Aussie who started it, said about it: "I went out to a party one night and a completely random person came up to me and gave me a hug. I felt like a king! It was the greatest thing that ever happened." Exceptions aside, to me, these kinds of experiences are more essential to the human condition than most of what the information age promises us today.
 
