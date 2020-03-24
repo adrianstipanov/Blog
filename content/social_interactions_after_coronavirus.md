@@ -1,7 +1,7 @@
 ---
 title: "Social interactions after coronavirus"
-date: 2020-03-24T02:40:58+01:00
-draft: false
+date: 2020-03-24T14:36:54+01:00
+draft: true
 ---
 
 ![image alt text](/hugs.png)
@@ -30,4 +30,4 @@ And if you are an entrepreneur and do believe that there is going to be a struct
 
 >***This thing is addressing problems that don't exist, it's solutionism at its worst*** - Bertram Gilfoyle referring to a "smart" fridge,  Silicon Valley
 
-For now, stay home, stay safe.
+Until then, stay home, stay safe.
