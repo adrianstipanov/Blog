@@ -1,7 +1,7 @@
 ---
 title: "Social interactions after coronavirus"
 date: 2020-03-24T02:40:58+01:00
-draft: true
+draft: false
 ---
 
 ![image alt text](/hugs.png)
