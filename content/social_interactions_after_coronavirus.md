@@ -18,7 +18,7 @@ Evolutionary biologists have pointed out how gossiping was essential to our surv
 
 Even before this confinement, we have succeeded in digitizing our lives in almost every department – socialization, fitness, dating and so on. I can't even go out for a run anymore without putting on my damned Garmin watch – that is after I fasten my heart rate chest strap first. 
 
-Apparently in London, they don't let primary school teachers high-five their pupils. The negative effect of overprotection has been well documented by psychologist Jonathan Haidt in "The Coddling of the American Mind". I just hope that this outbreak is not going to make classrooms look like something out of a dystopian future.
+Apparently in London they don't let primary school teachers high-five their pupils and this is before the outbreak. The negative effect of overprotection has been well documented by psychologist Jonathan Haidt in "The Coddling of the American Mind". I just hope that this outbreak is not going to make classrooms look like something out of a dystopian future.
 
  I can keep going on about how we have already been losing touch with our own selves, people around us and our surroundings. While technology is great, you wonder whether many of the things that digitized us were indeed a necessity or they were just built simply because the technology was available and made it possible.
 
