@@ -25,4 +25,18 @@ description = "Notes from the underground..."
 twitter_username = "AdrianStipanov"
 paginate = 5
 
+[menu]
+  [[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/AdrianStipanov"
+  [[menu.main]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/adrianstipanov"
+  #[[menu.other]]
+   # name = "Hugo"
+   # url = "https://themes.gohugo.io/solar-theme-hugo/"
+  #[[menu.other]]
+  #  name = "Demo"
+    #url = "https://themes.gohugo.io/theme/solar-theme-hugo/"
+
 
