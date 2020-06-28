@@ -20,7 +20,7 @@ enableDisqus = true
 disqusShortname = "adrianstipanov-com"
 scheme = "light" # light, dark, gray or preference
 author = "Adrian Stipanov"
-description = "Notes from the underground"
+description = "Notes from the underground..."
 
 twitter_username = "AdrianStipanov"
 paginate = 5
