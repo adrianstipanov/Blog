@@ -1,26 +1,28 @@
 
 # Site settings
 baseurl = "/"
-disqusShortname = "adrianstipanov-com"
 googleAnalytics = "UA-21961158-2"
 languageCode = "en-us"
 title = "Adrian Stipanov"
-theme = "hugo-tailwind-journal"
-pygmentsCodeFences = true
-pygmentsUseClasses = true
+theme = "solar-theme-hugo"
+scheme = "light"
+pygmentsStyle = "solarized-light" #solarized-light, -dark or -dark256
+copyright = "©Adrian Stipanov - 2020"
 
 [taxonomies]
     tag = "tags"
-
 [permalinks]
     posts = "/posts/:year/:month/:title/"
 
 [params]
+enableGoogleAnalytics = true
+enableDisqus = true
+disqusShortname = "adrianstipanov-com"
+scheme = "light" # light, dark, gray or preference
 author = "Adrian Stipanov"
-description = "A blog about investing, entrepreneurship and life"
-tagline = "Notes from the underground"
+description = "Notes from the underground"
 
-twitter = "AdrianStipanov"
-facebook = ""
+twitter_username = "AdrianStipanov"
+paginate = 5
 
 
